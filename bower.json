@@ -1,0 +1,20 @@
+{
+  "name": "MFeed",
+  "version": "1.0",
+  "homepage": "rwachtler.github.io",
+  "description": "Mensa Feed",
+  "authors": [
+    "Ramis Wachtler"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gulp": "~3.9.0"
+  }
+}
